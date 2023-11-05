@@ -1,4 +1,4 @@
-### Ol
+### Olá! Eu sou o Jefferson Dantas 👋
 
 <div>
   <a href="https://github.com/jeffersoncdantas">
